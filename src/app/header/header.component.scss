@@ -1,0 +1,96 @@
+@import '../../styles-global.scss';
+
+.fixed-header {
+  background-color: #ffffff;
+  background-image: url('../../assets/img/bg02.jpg');
+  background-position: center center;
+  background-repeat:  no-repeat;
+  background-attachment: fixed;
+  background-size:  cover;
+  top: 0;
+  z-index:999;
+  position: -webkit-sticky;
+  position: sticky;
+  display: grid;
+  height: 73px;
+}
+
+.white-header {
+  top: 0;
+  z-index:999;
+  position: fixed;
+  display: grid;
+  height: 73px;
+  //  background-image: url("../../assets/img/bg01.jpg");
+  background: #444;
+  width: 100%;
+}
+
+.row-style{
+  display: block;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.header-text{
+  max-width: 100%;
+  color: #C0C0C0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.25em;
+  font-weight: 500;
+  line-height: 1.3;
+  color: rgba(0,0,0,0.8);
+  text-shadow: 3px 3px 3px rgba(255,255,255,0.1);
+  padding-right: 5px;
+}
+
+.header-text .tooltiptext{
+  visibility: hidden;
+  width: 200px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.75em;
+  font-weight: 400;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+
+  opacity: 0;
+  transition: opacity 2.5s;
+
+}
+.header-text:hover .tooltiptext{
+  visibility: visible;
+  opacity: 1;
+}
+
+.header-text .tooltiptextlink{
+  visibility: hidden;
+  width: 320px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.75em;
+  font-weight: 400;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+
+  opacity: 0;
+  transition: opacity 2.5s;
+}
+.header-text:hover .tooltiptextlink{
+  visibility: visible;
+  opacity: 1;
+}

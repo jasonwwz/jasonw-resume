@@ -1,0 +1,34 @@
+<div class="background-layout">
+
+
+  <div class="row">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8">
+
+      <mat-accordion>
+        <mat-expansion-panel *ngFor="let w of works">
+          <mat-expansion-panel-header>
+            <mat-panel-title>
+              {{w.title}}
+            </mat-panel-title>
+            <mat-panel-description>
+              {{w.company}} ------------ {{w.location}} ------------ {{w.duration}}
+            </mat-panel-description>
+
+          </mat-expansion-panel-header>
+          <div>{{w.teachuse}}</div>
+          <div>{{w.project}} - {{w.projectdesc}}</div><br/>
+          <div class="desc-text" *ngFor="let r of w.responsibility">
+            <ul>
+              <li>{{r.content}}</li>
+            </ul>
+          </div>
+        </mat-expansion-panel>
+      </mat-accordion>
+
+    </div>
+    <div class="col-sm-2"></div>
+
+  </div>
+
+</div>

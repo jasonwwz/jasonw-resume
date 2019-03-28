@@ -1,0 +1,10 @@
+@import '../../styles-global.scss';
+
+.background-layout{
+  height: 970px;
+  background-image: url('../../assets/img/bg04.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

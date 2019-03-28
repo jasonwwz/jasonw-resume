@@ -1,0 +1,16 @@
+<div class="background-layout">
+  <div class="row">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8 content-title">TECHNICAL SKILLS</div>
+    <div class="col-sm-2"></div>
+  </div>
+  <div class="row">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8 content-text">
+      <ul *ngFor="let t of tech">
+        <li>{{t.content}}</li>
+      </ul>
+    </div>
+    <div class="col-sm-2"></div>
+  </div>
+</div>

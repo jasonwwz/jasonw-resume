@@ -1,0 +1,87 @@
+{
+  "header": {
+    "email": "jason.j2ee.developer@gmail.com",
+    "name": "Jason Wang",
+    "phone": "416-602-4916",
+    "linkedin": "ca.linkedin.com/in/jasonwangjavadeveloper"
+  },
+  "objective": "Seeking a position as Senior Angular / NodeJS & Java EE developer, where 15 years Full-Stack large-scale multi-client enterprise application development experience will contribute.",
+  "summary": [
+    {
+      "content": "15 years Java/J2EE Full-Stack applications development experience for Banking, Ministry and Telecom, working through exposure to Full Software Development Life Cycle (SDLC)."
+    },
+    {
+      "content": "6 years hands-on Angular 1, 2, 4 and 5 development experience with Material Design, Typescript, AngularCLI, CSS/SCSS, Lodash, NPM, Yarn and NodeJS."
+    },
+    {
+      "content": "15 years hands-on experience with BEA WebLogic and IBM WebSphere server."
+    },
+    {
+      "content": "15 years SOA and Web Service development experience, with in-depth proficiency of SOAP, WSDL, Schema, XML binding and messaging and 10 years’ experience using Restful web service."
+    },
+    {
+      "content": "8 years Continuous Integration experience with Hudson / Jenkins."
+    },
+    {
+      "content": "Excellent team player with strong verbal and written communication skills. Quick learner and ready to learn and work on new technologies."
+    }
+  ],
+  "tech": [
+    {
+      "content": "Java Enterprise: Angular1/2/4/5(6yrs),  Material Design(2yr), TypeScirpt(2yr), Angular-CLI(2yrs), Lodash(2yrs), Ajax(4yrs), CSS/SCSS(4yrs), JavaScript(12yrs), NodeJs (6yr), StrongLoop(1yr), Bootstrap(5yrs), NPM(6yr), Bower(1yr), Karma(1yr), Jasmine(1yr), Java/J2EE(15yrs), XML(15yrs), EJB(10yrs), Web-Service (15yrs), Spring Framework (12yrs), SQL(10yrs), SOAP (10yrs), MQ(3yrs), JSON(10yrs), Struts (10yrs), Servlet (10yrs), JSP(10yrs), JSF(8yrs),  JDBC(12yrs),  UNIX(8yrs),  HTML5(5yrs),  iBATIS(2yrs), Mongo DB(3yrs)"
+    },
+    {
+      "content": "Java IDE: Eclipse, JBuilder-X Enterprise, RAD8.5. JDK 1.4/1.5/1.6/1.7, WebStrom, Sublime."
+    },
+    {
+      "content": "Application Server: BEA WebLogic (8.1 / 9.2 / 10.3), IBM WebSphere (6.0 / 7.0 / 8.5), Tomcat 5.0, Could"
+    },
+    {
+      "content": "Database: Oracle (9i / 10g / 11g), MXSQL, Tandem / Non-stop DB, DB2, Cassandra DB, CQL."
+    },
+    {
+      "content": "TOOLS: Rational Rose, XML Spy, ANT, Maven, CVS, MKS Integrity, SVN, SCM, Git, Stash, Clear Case, Postman, SonarQube, Jmeter, JIRA, Grunt, Agile, heorku"
+    },
+    {
+      "content": "Continuous Integration: Hudson / Jenkins"
+    }
+  ],
+  "work": [
+    {
+      "title": "Senior Full-Stack Developer",
+      "company": "Ministry of Education",
+      "location": "Toronto, ON Canada",
+      "duration": "September 2017 - Present",
+      "teachuse": "Technology used: (Angular5, TypeScript, Angular-CLI, NPM, HTML5, SCSS, Restful, Spring framework)",
+      "project": "Project: Job Seeker Assessment Tool (JSAT)",
+      "projectdesc": "Ontario Job Seeker Assessment Tool (JSAT) is online base application from Government of Ontario for job seeker provides comprehensive assessment processes and tanning purpose.",
+      "responsibility": [
+        {
+          "content": "(Front-end) Created angular project framework from scratch using Angular 5, CSS3, HTML5 and CLI."
+        },
+        {
+          "content": "(Front-end) Installed required packages and configured dependency libraries, also implemented all required modules, sub-modules, routings and lazy-loadings, reactive forms, validations and UI web services."
+        },
+        {
+          "content": "(Front-end) Implemented responsive web components for both web and mobile client using bootstrap grids, CSS3/SCSS."
+        },
+        {
+          "content": "(Back-end) Created Java Restful APIs project framework from scratch using J2EE, Spring framework and Maven."
+        },
+        {
+          "content": "(Back-end) Implemented Restful GET, PUT, POST APIs for web services exchange data from Oracle DB."
+        },
+        {
+          "content": "(Back-end) Implemented authentication, JWT token, error handling and for UI services call and routings."
+        },
+        {
+          "content": "(Back-end) Designed and created new tables in Oracle database based on Restful APIs."
+        },
+        {
+          "content": "Deployed UI and backend web services to WebSphere server."
+        }
+
+      ]
+    }
+  ]
+}

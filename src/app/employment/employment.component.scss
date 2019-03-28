@@ -1,0 +1,24 @@
+@import '../../styles-global.scss';
+
+.background-layout{
+  height: 100%;
+  background-image: url('../../assets/img/bg04.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.desc-text{
+  max-width: 100%;
+  color: #e6e6e6;
+  font-family: "Maven Pro", Helvetica, Arial, sans-serif;
+  font-size: 0.75em;
+  font-weight: 200;
+  line-height: 1.3;
+}
+
+.row-space{
+  padding-bottom: 100px;
+}
