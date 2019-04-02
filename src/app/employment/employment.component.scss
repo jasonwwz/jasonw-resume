@@ -11,7 +11,8 @@
 
 .title-text {
   max-width: 100%;
-  color: rgba(0,0,0,.87);
+  color: #ffffff;
+  // color: rgba(0,0,0,.87);
   font-family: "Maven Pro", Helvetica, Arial, sans-serif;
   font-size: 1.0em;
   font-weight: 300;
@@ -23,7 +24,8 @@
 
 .desc-text{
   max-width: 100%;
-  color: rgba(0,0,0,.87);
+  color: #d9d9d9;
+  // color: rgba(0,0,0,.87);
   font-family: "Maven Pro", Helvetica, Arial, sans-serif;
   font-size: 0.75em;
   font-weight: 200;
@@ -39,6 +41,17 @@
   padding-bottom: 20px;
 }
 
-//mat-expansion-panel{
-//  opacity: 0.3;
+mat-expansion-panel{
+  // opacity: 0.3;
+  // background: red;
+  background-image: url('../../assets/img/bg04.jpg');
+
+}
+
+mat-panel-description{
+  color: #d9d9d9;
+}
+
+//mat-panel-title{
+//  color: #ffffff;
 //}
