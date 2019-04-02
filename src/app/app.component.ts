@@ -10,8 +10,8 @@ import {ServiceComponent} from './service/service.component';
 export class AppComponent implements OnInit{
 
   title = 'jasoncv';
-  private content: any = {};
-  private isLoaded = false;
+  content: any = {};
+  isLoaded = false;
 
   constructor(
     private contentService: ServiceComponent,
