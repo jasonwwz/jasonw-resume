@@ -1,8 +1,9 @@
 @import '../../styles-global.scss';
 
+
 .background-layout{
-  height: 100%;
-  background-image: url('../../assets/img/bg04.jpg');
+  height: 970px;
+  background-image: url('../../assets/img/mobile1.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -55,3 +56,10 @@ mat-panel-description{
 //mat-panel-title{
 //  color: #ffffff;
 //}
+
+@media screen and (min-width: 750px) {
+
+  .background-layout{
+    background-image: url('../../assets/img/bg04.jpg');
+  }
+}

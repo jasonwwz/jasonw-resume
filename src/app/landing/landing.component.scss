@@ -1,13 +1,13 @@
 @import '../../styles-global.scss';
 
+
 .background-layout{
   height: 970px;
-  background-image: url('../../assets/img/bg04.jpg');
+  background-image: url('../../assets/img/mobile1.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 1;
 }
 
 .landing-letter{
@@ -46,5 +46,9 @@
 
   .content-text {
     font-size: 1.5em;
+  }
+
+  .background-layout{
+    background-image: url('../../assets/img/bg04.jpg');
   }
 }

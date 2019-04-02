@@ -2,12 +2,13 @@
 
 .background-layout{
   height: 970px;
-  background-image: url('../../assets/img/bg04.jpg');
+  background-image: url('../../assets/img/mobile1.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 
 .content-title {
   padding-top: 300px;
@@ -17,5 +18,9 @@
   .content-text {
     font-size: 1.2em;
     text-align: center;
+  }
+
+  .background-layout{
+    background-image: url('../../assets/img/bg04.jpg');
   }
 }

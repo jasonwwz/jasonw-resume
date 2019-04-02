@@ -2,7 +2,7 @@
 
 .background-layout{
   height: 970px;
-  background-image: url('../../assets/img/bg04.jpg');
+  background-image: url('../../assets/img/mobile1.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -12,5 +12,9 @@
 @media screen and (min-width: 750px) {
    .content-text {
     font-size: 1.2em;
+  }
+
+  .background-layout{
+    background-image: url('../../assets/img/bg04.jpg');
   }
 }
