@@ -28,7 +28,7 @@
   text-align: center;
   color: 	#e68a00;
   font-family: 'Anton', sans-serif;
-  font-size: 6.0em;
+  font-size: 4.0em;
   font-weight: 700;
   line-height: 1.3;
   margin-top: 20rem;
@@ -39,3 +39,12 @@
   0px 34px 30px rgba(0,0,0,0.1);
 }
 
+@media screen and (min-width: 750px) {
+  .landing-title {
+    font-size: 6.0em;
+  }
+
+  .content-text {
+    font-size: 1.5em;
+  }
+}

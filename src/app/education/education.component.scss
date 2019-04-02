@@ -9,8 +9,13 @@
   background-size: cover;
 }
 
+.content-title {
+  padding-top: 300px;
+}
+
 @media screen and (min-width: 750px) {
-   .content-text {
+  .content-text {
     font-size: 1.2em;
+    text-align: center;
   }
 }

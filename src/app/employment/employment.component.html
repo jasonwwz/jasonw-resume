@@ -1,5 +1,9 @@
 <div class="background-layout">
-
+  <div class="row">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8 content-title">EMPLOYMENT HISTORY</div>
+    <div class="col-sm-2"></div>
+  </div>
 
   <div class="row">
     <div class="col-sm-2"></div>
@@ -7,21 +11,24 @@
 
       <mat-accordion>
         <mat-expansion-panel *ngFor="let w of works">
-          <mat-expansion-panel-header>
+          <mat-expansion-panel-header class="title-text" [collapsedHeight]="'100px'" [expandedHeight]="'100px'">
             <mat-panel-title>
               {{w.title}}
             </mat-panel-title>
             <mat-panel-description>
-              {{w.company}} ------------ {{w.location}} ------------ {{w.duration}}
+              {{w.company}} --- {{w.location}} --- {{w.duration}}
             </mat-panel-description>
 
           </mat-expansion-panel-header>
-          <div>{{w.teachuse}}</div>
-          <div>{{w.project}} - {{w.projectdesc}}</div><br/>
-          <div class="desc-text" *ngFor="let r of w.responsibility">
-            <ul>
-              <li>{{r.content}}</li>
-            </ul>
+          <div class="project-space" *ngFor="let p of w.projects">
+            <div class="title-text">{{p.techuse}}</div>
+            <div class="title-text">{{p.projectname}} - {{p.projectdesc}}</div>
+            <br/>
+            <div class="desc-text" *ngFor="let r of p.responsibility">
+              <ul>
+                <li>{{r.content}}</li>
+              </ul>
+            </div>
           </div>
         </mat-expansion-panel>
       </mat-accordion>

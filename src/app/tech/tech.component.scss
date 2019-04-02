@@ -11,3 +11,8 @@
   background-size: cover;
 }
 
+@media screen and (min-width: 750px) {
+  .content-text {
+    font-size: 1.2em;
+  }
+}

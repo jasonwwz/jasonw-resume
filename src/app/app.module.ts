@@ -19,6 +19,7 @@ import { SummaryComponent } from './summary/summary.component';
 import { TechComponent } from './tech/tech.component';
 import { EmploymentComponent } from './employment/employment.component';
 import { StateServiceComponent } from './service/state-service/state-service.component';
+import { EducationComponent } from './education/education.component';
 
 
 @NgModule({
@@ -32,7 +33,8 @@ import { StateServiceComponent } from './service/state-service/state-service.com
     SummaryComponent,
     TechComponent,
     EmploymentComponent,
-    StateServiceComponent
+    StateServiceComponent,
+    EducationComponent
   ],
   imports: [
     BrowserModule,
