@@ -5,19 +5,19 @@
 		"phone": "416-602-4916",
 		"linkedin": "ca.linkedin.com/in/jasonwangjavadeveloper"
 	},
-	"objective": "Seeking a position as Senior Angular & Java EE developer, where 16 years Full-Stack large-scale multi-clients enterprise application development experience will contribute.",
+	"objective": "Seeking a position as Senior Angular Java EE developer , where 17 years Full Stack large scale multi-clients enterprise application developm ent experience will contribute.",
 	"summary": [
 		{
-			"content": "16 years Java/JEE Full-Stack applications development experience for Banking, Ministry and Telecom, working through exposure to Full Software Development Life Cycle (SDLC)."
+			"content": "17 years Java EE Full Stack applications development experience for Banking, Ministry and Telecom, working through exposure to Full Software Development Life Cycle (SDLC)."
 		},
 		{
-			"content": "8 years hands-on Angular 1, 2, 4, 5, 6 and 7 development experience with Bootstrap, Material Design, HTML5, Typescript, CSS3/CSS4/SCSS, and NodeJS."
+			"content": "8 years hands on Angular 1, 2, 4, 5, 6, 7 and 8 development experience with Bootstrap, Angular Material, HTML5, Typescript, CSS 3/CSS4 /SCSS, and NodeJS."
 		},
 		{
-			"content": "16 years hands-on experience with Tomcat, SpringBoot, BEA WebLogic and IBM WebSphere, AWS, Azure, Heroku Cloud server."
+			"content": "17 years hands-on experience with Tomcat, SpringBoot, Spring Cloud, BEA WebLogic and IBM WebSphere application servers, AWS, Azure, Heroku Cloud servers."
 		},
 		{
-			"content": "16 years Web Service development experience with in-depth proficiency of SOAP, WSDL, XML and messaging. 10 years’ experience using Restful web service with JSON data structure and Microservices with spring boot."
+			"content": "17 years Web Service development experience with in-depth proficiency of SOAP, WSDL, XML and messaging. 10 years’ experience using Restful API web service with JSON data structure and Micro services with spring boot."
 		},
 		{
 			"content": "8 years DevOs and CI Continuous Integration experience with Hudson / Jenkins, Heroku, AWS."
@@ -28,19 +28,19 @@
 	],
 	"tech": [
 		{
-			"content": "Angular: Angular 1 , 2 , 4 , 5 , 6, 7 (8yrs),  Material Design (4yr), TypeScirpt(5yr), Angular-CLI (5yrs), Lodash (2yrs), Ajax (4yrs), CSS3/CSS4/SCSS (10yrs), JavaScript (12yrs), NodeJs (7yr), StrongLoop (2yr), Bootstrap (6yrs), NPM (7yr), Bower (1yr), Karma (1yr), Jasmine (5yr), JSON (16yrs), HTML5 (7yrs), Junit (10yrs)"
+			"content": "Angular: Angular 1 , 2 , 4 , 5 , 6, 7, 8(7yrs),  Angular Material Design(5yr), TypeScirpt(6yr), Angular-CLI(6yrs), Lodash(2yrs), Ajax(4yrs), CSS3/ CSS4/SCSS(10yrs), JavaScript(12yrs), NodeJs (7yr), StrongLoop(2yr), Bootstrap(6yrs), NPM(7yr), Bower(1yr), Karma(1yr), Jasmine(5yr), JSON(16yrs), HTML5(7yrs), Junit(10yrs)"
 		},
 		{
-			"content": "Java Enterprise: Java/J2EE (17yrs), XML (16yrs), EJB (10yrs), Web-Service (17yrs), Spring Framework (15yrs), SQL (10yrs), SOAP (10yrs), MQ (3yrs), Struts (10yrs), Servlet (10yrs), JSP (10yrs), JSF (8yrs),  JDBC (12yrs),  UNIX (8yrs),  iBATIS (2yrs), Mongo DB (3yrs)"
+			"content": "Java Enterprise: Java/J2EE(17yrs), XML(16yrs), EJB(10yrs), Web-Service (17yrs), Spring Framework (15yrs), SQL(10yrs), SOAP (10yrs), MQ(3yrs), Struts (10yrs), Servlet (10yrs), JSP(10yrs), JSF(8yrs),  JDBC(12yrs),  UNIX(8yrs),  iBATIS(2yrs), Mongo DB(3yrs)"
 		},
 		{
-			"content": "IDE: Eclipse, JBuilder-X Enterprise, RAD. JDK 1.4/1.5/1.6/1.7/1.8, WebStrom, Sublime, VSCODE"
+			"content": "IDE: Eclipse, JBuilder-X Enterprise, RAD. JDK 1.4/1.5/1.6/1.7/1.8, WebStrom, Sublime, VSCODE."
 		},
 		{
 			"content": "Application Server: BEA WebLogic (8.1 / 9.2 / 10.3), IBM WebSphere (6.0 / 7.0 / 8.5), Tomcat 5/6/7, AWS, Azure"
 		},
 		{
-			"content": "Database: Oracle (9i / 10g / 11g), MXSQL, Tandem / Non-stop DB, DB2, Cassandra DB, SQL"
+			"content": "Database: Oracle (9i / 10g / 11g), MXSQL, Tandem / Non-stop DB, DB2, MongoDB, Cassandra DB, SQL."
 		},
 		{
 			"content": "TOOLS: Rational Rose, XML Spy, ANT, Maven, CVS, MKS Integrity, SVN, SCM, Git, Stash, Clear Case, Postman, SonarQube, Jmeter, JIRA, Grunt, Agile, AWS, kubernetes Cloud"
@@ -57,12 +57,48 @@
 	"work": [
 		{
 			"title": "Senior Full-Stack Developer",
-			"company": "IFDS (International Financial Data Service)",
+			"company": "TD Bank",
 			"location": "Toronto, ON Canada",
-			"duration": "September 2018 - Present",
+			"duration": "August 2019 - Present",
 			"projects": [
 				{
-					"techuse": "Technology used: (Angular 6, Bootstrap4, HTML5, CSS3/CSS4/SCSS, Restful service, Java, Spring framework, GA)",
+					"techuse": "Technology used: (Angular 7, Angular Material, HTML5, SCSS, Restful services, Java EE, Spring framework, GIT)",
+					"projectname": "Project: (Agile) MBNA Credit Card",
+					"projectdesc": "MBNA Credit Card project is large scale web-based online application for user apply MBNA credit card.",
+					"responsibility": [
+						{
+							"content": "(Front-end) Designed and built structures using Angular CLI, Angular Material framework."
+						},
+						{
+							"content": "(Front-end) Implemented new Angular 7 components, child components, services, Angular reactive forms and SCSS classes UIs based on VDS business requirement and bootstrap."
+						},
+						{
+							"content": "(Front-end) Created Angular 7 Observable services layer and modals subscribe and exchange data from back-end Restful APIs."
+						},
+						{
+							"content": "(Back-end) Implemented back-end Restful APIs GET, POST and PUT APIs. Created Restful controller and endpoints with JSON data structures requests and responses with Micro-services using Java, Maven, Spring framework."
+						},
+						{
+							"content": "(Back-end) Created back-end service layers, models and implemented Circuit Breaker and Aggregator patterns, validation rules and DTO layers, SQL queries exchange data with Oracle database."
+						},
+						{
+							"content": "(Security) Implemented HTTP SSL web service handshakes and session less JWT token generation based on public and private keys for Restful services and encrypt and decrypt token verify all coming services."
+						},
+						{
+							"content": "(Continuous Integration) Scheduled Jenken server tasks running daily building, packaging, testing and deployment to Dev and QA environment."
+						}
+					]
+				}
+			]
+		},	
+		{
+			"title": "Senior Full-Stack Developer",
+			"company": "IFDS (International Financial Data Service)",
+			"location": "Toronto, ON Canada",
+			"duration": "September 2018 – August 2019",
+			"projects": [
+				{
+					"techuse": "Technology used: (Angular 6, Bootstrap4, HTML5, CSS3/CSS4/SCSS, Restful service, Java, SpringBoot, GIT)",
 					"projectname": "Project: iFast-Web-Plus",
 					"projectdesc": "iFast-Web-Plus is large scale web-based online trading application for mutual fund products.",
 					"responsibility": [
@@ -70,16 +106,22 @@
 							"content": "(Front-end) Designed the end to end flows and structures and migrated angularJS 1.7 controllers, directives, services, pipes, filters and kendo grid into Angular 6.1 components, services, UI and new Kendo grids 3.11."
 						},
 						{
-							"content": "(Front-end) Implemented new Angular 6 components, services and UI based on business requirement using new kendo grid, Angular reactive forms and bootstrap."
+							"content": "(Front-end) Implemented new Angular 6 Interface, parent component, child component, services and UI based on business requirement using new kendo grid, Angular reactive forms and bootstrap."
 						},
 						{
 							"content": "(Front-end) Created Angular 6 Observable services layer and modals exchange data from back-end Restful APIs."
 						},
 						{
-							"content": "(Back-end) Implemented back-end new Restful GET, POST and PUT APIs, services for front-end stateless API calls and response with JSON data using Java and Spring framework."
+							"content": "(Back-end) Implemented back-end new Restful GET, POST and PUT APIs. Created Restful controller and endpoints with JSON requests and responses with Microservices using Java, Maven, Spring framework and SpringBoot."
 						},
 						{
-							"content": "(Back-end) Implemented business rule component and data base layer for new Restful services."
+							"content": "(Back-end) Created service layers, models and implemented business logic, validation rules and DTO layers, queries exchange data with MySQL database."
+						},
+						{
+							"content": "(Security) Implemented HTTP SSL web service call and JWT token generation based on public and private keys for Restful services and encrypt and decrypt token to verify coming services."
+						},
+						{
+							"content": "(Continuous Integration) Scheduled Jenken server tasks running daily building, packaging, testing and deployment to Dev and QA environment."
 						}
 					]
 				}
@@ -92,7 +134,7 @@
 			"duration": "September 2017 – September 2018",
 			"projects": [
 				{
-					"techuse": "Technology used: (Angular5, TypeScript, Angular-CLI, NPM, HTML5, SCSS, Restful, Spring framework)",
+					"techuse": "Technology used: (Angular 5, Bootstrap, HTML5, CSS3/SCSS, Restful API, Java, Spring framework, AODA, GIT)",
 					"projectname": "Project: Job Seeker Assessment Tool (JSAT)",
 					"projectdesc": "Ontario Job Seeker Assessment Tool (JSAT) is online base application from Government of Ontario for job seeker provides comprehensive assessment processes and tanning purpose.",
 					"responsibility": [
@@ -221,30 +263,9 @@
 		},
 		{
 			"title": "Senior Full-Stack Developer",
-			"company": "Scotiabank",
-			"location": "Toronto, ON Canada",
-			"duration": "February 2015 – November 2015",
-			"projects": [
-				{
-					"techuse": "Technology used: (JSF, JavaScript, Ajax, JQuery, SOAP, WSDL, XML, Oracle DB, WebSphere 8.5)",
-					"projectname": "Project: Scotia Online Banking Mexico and Caribbean regions",
-					"projectdesc": "The Scotia Online Banking Mexico project is introduced to convert Mexico customers over to the Scotia Online.",
-					"responsibility": [
-						{
-							"content": "(Front-end) Implemented ScotiaBank Online cheque payment component includes stop cheque, protect cheque, edit cheque, disable cheque, enable cheque, cancel cheque, cheque search and cheque image functions."
-						},
-						{
-							"content": "(Back-end) Implemented new SOAP web services allow customer transfer money within or outside banks."
-						}
-					]
-				}
-			]
-		},
-		{
-			"title": "Senior Full-Stack Developer",
 			"company": "TD Bank",
 			"location": "Toronto, ON Canada",
-			"duration": "January 2014 – February 2015",
+			"duration": "January 2014 – November 2015",
 			"projects": [
 				{
 					"techuse": "",
@@ -391,9 +412,9 @@
 		},
 		{
 			"title": "Senior J2EE Consultant",
-			"company": "CGI Canada",
+			"company": "Bell Canada",
 			"location": "Toronto, ON Canada",
-			"duration": "August 2006 – August 2008",
+			"duration": "August 2003 – August 2008",
 			"projects": [
 				{
 					"techuse": "",
@@ -422,24 +443,6 @@
 					"responsibility": [
 						{
 							"content": "Developed web services and SQL statement for retrieving, insertion and update information."
-						}
-					]
-				}
-			]
-		},
-		{
-			"title": "Java/J2EE Developer",
-			"company": "Unic solution software",
-			"location": "Toronto, ON Canada",
-			"duration": "August 2003 – August 2006",
-			"projects": [
-				{
-					"techuse": "",
-					"projectname": "Project: E – Insurance System",
-					"projectdesc": "An E-Insurance system designed by JSP/servlet. JMS is used to synchronize the data with the backend system.",
-					"responsibility": [
-						{
-							"content": "Developed user interfaces with HTML, CSS, JSP, SERVLET, application is running on the JBoss server."
 						}
 					]
 				}

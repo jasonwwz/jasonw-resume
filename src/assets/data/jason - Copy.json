@@ -1,87 +1,449 @@
 {
-  "header": {
-    "email": "jason.j2ee.developer@gmail.com",
-    "name": "Jason Wang",
-    "phone": "416-602-4916",
-    "linkedin": "ca.linkedin.com/in/jasonwangjavadeveloper"
-  },
-  "objective": "Seeking a position as Senior Angular / NodeJS & Java EE developer, where 15 years Full-Stack large-scale multi-client enterprise application development experience will contribute.",
-  "summary": [
-    {
-      "content": "15 years Java/J2EE Full-Stack applications development experience for Banking, Ministry and Telecom, working through exposure to Full Software Development Life Cycle (SDLC)."
-    },
-    {
-      "content": "6 years hands-on Angular 1, 2, 4 and 5 development experience with Material Design, Typescript, AngularCLI, CSS/SCSS, Lodash, NPM, Yarn and NodeJS."
-    },
-    {
-      "content": "15 years hands-on experience with BEA WebLogic and IBM WebSphere server."
-    },
-    {
-      "content": "15 years SOA and Web Service development experience, with in-depth proficiency of SOAP, WSDL, Schema, XML binding and messaging and 10 years’ experience using Restful web service."
-    },
-    {
-      "content": "8 years Continuous Integration experience with Hudson / Jenkins."
-    },
-    {
-      "content": "Excellent team player with strong verbal and written communication skills. Quick learner and ready to learn and work on new technologies."
-    }
-  ],
-  "tech": [
-    {
-      "content": "Java Enterprise: Angular1/2/4/5(6yrs),  Material Design(2yr), TypeScirpt(2yr), Angular-CLI(2yrs), Lodash(2yrs), Ajax(4yrs), CSS/SCSS(4yrs), JavaScript(12yrs), NodeJs (6yr), StrongLoop(1yr), Bootstrap(5yrs), NPM(6yr), Bower(1yr), Karma(1yr), Jasmine(1yr), Java/J2EE(15yrs), XML(15yrs), EJB(10yrs), Web-Service (15yrs), Spring Framework (12yrs), SQL(10yrs), SOAP (10yrs), MQ(3yrs), JSON(10yrs), Struts (10yrs), Servlet (10yrs), JSP(10yrs), JSF(8yrs),  JDBC(12yrs),  UNIX(8yrs),  HTML5(5yrs),  iBATIS(2yrs), Mongo DB(3yrs)"
-    },
-    {
-      "content": "Java IDE: Eclipse, JBuilder-X Enterprise, RAD8.5. JDK 1.4/1.5/1.6/1.7, WebStrom, Sublime."
-    },
-    {
-      "content": "Application Server: BEA WebLogic (8.1 / 9.2 / 10.3), IBM WebSphere (6.0 / 7.0 / 8.5), Tomcat 5.0, Could"
-    },
-    {
-      "content": "Database: Oracle (9i / 10g / 11g), MXSQL, Tandem / Non-stop DB, DB2, Cassandra DB, CQL."
-    },
-    {
-      "content": "TOOLS: Rational Rose, XML Spy, ANT, Maven, CVS, MKS Integrity, SVN, SCM, Git, Stash, Clear Case, Postman, SonarQube, Jmeter, JIRA, Grunt, Agile, heorku"
-    },
-    {
-      "content": "Continuous Integration: Hudson / Jenkins"
-    }
-  ],
-  "work": [
-    {
-      "title": "Senior Full-Stack Developer",
-      "company": "Ministry of Education",
-      "location": "Toronto, ON Canada",
-      "duration": "September 2017 - Present",
-      "teachuse": "Technology used: (Angular5, TypeScript, Angular-CLI, NPM, HTML5, SCSS, Restful, Spring framework)",
-      "project": "Project: Job Seeker Assessment Tool (JSAT)",
-      "projectdesc": "Ontario Job Seeker Assessment Tool (JSAT) is online base application from Government of Ontario for job seeker provides comprehensive assessment processes and tanning purpose.",
-      "responsibility": [
-        {
-          "content": "(Front-end) Created angular project framework from scratch using Angular 5, CSS3, HTML5 and CLI."
-        },
-        {
-          "content": "(Front-end) Installed required packages and configured dependency libraries, also implemented all required modules, sub-modules, routings and lazy-loadings, reactive forms, validations and UI web services."
-        },
-        {
-          "content": "(Front-end) Implemented responsive web components for both web and mobile client using bootstrap grids, CSS3/SCSS."
-        },
-        {
-          "content": "(Back-end) Created Java Restful APIs project framework from scratch using J2EE, Spring framework and Maven."
-        },
-        {
-          "content": "(Back-end) Implemented Restful GET, PUT, POST APIs for web services exchange data from Oracle DB."
-        },
-        {
-          "content": "(Back-end) Implemented authentication, JWT token, error handling and for UI services call and routings."
-        },
-        {
-          "content": "(Back-end) Designed and created new tables in Oracle database based on Restful APIs."
-        },
-        {
-          "content": "Deployed UI and backend web services to WebSphere server."
-        }
-
-      ]
-    }
-  ]
+	"header": {
+		"email": "jason.j2ee.developer@gmail.com",
+		"name": "Jason Wang",
+		"phone": "416-602-4916",
+		"linkedin": "ca.linkedin.com/in/jasonwangjavadeveloper"
+	},
+	"objective": "Seeking a position as Senior Angular & Java EE developer, where 16 years Full-Stack large-scale multi-clients enterprise application development experience will contribute.",
+	"summary": [
+		{
+			"content": "16 years Java/JEE Full-Stack applications development experience for Banking, Ministry and Telecom, working through exposure to Full Software Development Life Cycle (SDLC)."
+		},
+		{
+			"content": "8 years hands-on Angular 1, 2, 4, 5, 6 and 7 development experience with Bootstrap, Material Design, HTML5, Typescript, CSS3/CSS4/SCSS, and NodeJS."
+		},
+		{
+			"content": "16 years hands-on experience with Tomcat, SpringBoot, BEA WebLogic and IBM WebSphere, AWS, Azure, Heroku Cloud server."
+		},
+		{
+			"content": "16 years Web Service development experience with in-depth proficiency of SOAP, WSDL, XML and messaging. 10 years’ experience using Restful web service with JSON data structure and Microservices with spring boot."
+		},
+		{
+			"content": "8 years DevOs and CI Continuous Integration experience with Hudson / Jenkins, Heroku, AWS."
+		},
+		{
+			"content": "Excellent team player with strong verbal and written communication skills. Quick learner and ready to learn and work on new technologies."
+		}
+	],
+	"tech": [
+		{
+			"content": "Angular: Angular 1 , 2 , 4 , 5 , 6, 7 (8yrs),  Material Design (4yr), TypeScirpt(5yr), Angular-CLI (5yrs), Lodash (2yrs), Ajax (4yrs), CSS3/CSS4/SCSS (10yrs), JavaScript (12yrs), NodeJs (7yr), StrongLoop (2yr), Bootstrap (6yrs), NPM (7yr), Bower (1yr), Karma (1yr), Jasmine (5yr), JSON (16yrs), HTML5 (7yrs), Junit (10yrs)"
+		},
+		{
+			"content": "Java Enterprise: Java/J2EE (17yrs), XML (16yrs), EJB (10yrs), Web-Service (17yrs), Spring Framework (15yrs), SQL (10yrs), SOAP (10yrs), MQ (3yrs), Struts (10yrs), Servlet (10yrs), JSP (10yrs), JSF (8yrs),  JDBC (12yrs),  UNIX (8yrs),  iBATIS (2yrs), Mongo DB (3yrs)"
+		},
+		{
+			"content": "IDE: Eclipse, JBuilder-X Enterprise, RAD. JDK 1.4/1.5/1.6/1.7/1.8, WebStrom, Sublime, VSCODE"
+		},
+		{
+			"content": "Application Server: BEA WebLogic (8.1 / 9.2 / 10.3), IBM WebSphere (6.0 / 7.0 / 8.5), Tomcat 5/6/7, AWS, Azure"
+		},
+		{
+			"content": "Database: Oracle (9i / 10g / 11g), MXSQL, Tandem / Non-stop DB, DB2, Cassandra DB, SQL"
+		},
+		{
+			"content": "TOOLS: Rational Rose, XML Spy, ANT, Maven, CVS, MKS Integrity, SVN, SCM, Git, Stash, Clear Case, Postman, SonarQube, Jmeter, JIRA, Grunt, Agile, AWS, kubernetes Cloud"
+		},
+		{
+			"content": "DevOS and CI Continuous Integration: Hudson / Jenkins, AWS, Heroku"
+		}
+	],
+	"edu": {
+		"cert1": "Sun Certificated Java Programmer (SCJP)",
+		"cert2": "Sun Certificated Business Component Developer (SCBCD)",
+		"degree": "Bachelor of Computer Science in Brock University Canada"
+	},
+	"work": [
+		{
+			"title": "Senior Full-Stack Developer",
+			"company": "IFDS (International Financial Data Service)",
+			"location": "Toronto, ON Canada",
+			"duration": "September 2018 - Present",
+			"projects": [
+				{
+					"techuse": "Technology used: (Angular 6, Bootstrap4, HTML5, CSS3/CSS4/SCSS, Restful service, Java, Spring framework, GA)",
+					"projectname": "Project: iFast-Web-Plus",
+					"projectdesc": "iFast-Web-Plus is large scale web-based online trading application for mutual fund products.",
+					"responsibility": [
+						{
+							"content": "(Front-end) Designed the end to end flows and structures and migrated angularJS 1.7 controllers, directives, services, pipes, filters and kendo grid into Angular 6.1 components, services, UI and new Kendo grids 3.11."
+						},
+						{
+							"content": "(Front-end) Implemented new Angular 6 components, services and UI based on business requirement using new kendo grid, Angular reactive forms and bootstrap."
+						},
+						{
+							"content": "(Front-end) Created Angular 6 Observable services layer and modals exchange data from back-end Restful APIs."
+						},
+						{
+							"content": "(Back-end) Implemented back-end new Restful GET, POST and PUT APIs, services for front-end stateless API calls and response with JSON data using Java and Spring framework."
+						},
+						{
+							"content": "(Back-end) Implemented business rule component and data base layer for new Restful services."
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Senior Full-Stack Developer",
+			"company": "Ministry of Education",
+			"location": "Toronto, ON Canada",
+			"duration": "September 2017 – September 2018",
+			"projects": [
+				{
+					"techuse": "Technology used: (Angular5, TypeScript, Angular-CLI, NPM, HTML5, SCSS, Restful, Spring framework)",
+					"projectname": "Project: Job Seeker Assessment Tool (JSAT)",
+					"projectdesc": "Ontario Job Seeker Assessment Tool (JSAT) is online base application from Government of Ontario for job seeker provides comprehensive assessment processes and tanning purpose.",
+					"responsibility": [
+						{
+							"content": "(Front-end) Created angular project framework from scratch using Angular 5, CSS3, HTML5 and CLI."
+						},
+						{
+							"content": "(Front-end) Installed required packages and configured dependency libraries, also implemented all required modules, sub-modules, routings and lazy-loadings, reactive forms, validations and UI web services."
+						},
+						{
+							"content": "(Front-end) Implemented responsive web components for both web and mobile client using bootstrap grids, CSS3/SCSS."
+						},
+						{
+							"content": "(Back-end) Created Java Restful APIs project framework from scratch using J2EE, Spring framework and Maven."
+						},
+						{
+							"content": "(Back-end) Implemented Restful GET, PUT, POST APIs for web services exchange data from Oracle DB."
+						},
+						{
+							"content": "(Back-end) Implemented authentication, JWT token, error handling and for UI services call and routings."
+						},
+						{
+							"content": "(Back-end) Designed and created new tables in Oracle database based on Restful APIs."
+						},
+						{
+							"content": "Deployed UI and backend web services to WebSphere server."
+						}
+					]
+				},
+				{
+					"techuse": "Technology used: (Angular 5, Bootstrap, HTML5, CSS3/SCSS, Restful API, Java, Spring framework, AODA, GA)",
+					"projectname": "Project: One-Key My account integration",
+					"projectdesc": "Web based application for Ministry client register account information after one-key login.",
+					"responsibility": [
+						{
+							"content": "(Front-end) Designed end to end flows and structures and created project framework from scratch using Angular5."
+						},
+						{
+							"content": "(Front-end) Implemented responsive web components for both web and mobile client using bootstrap grids, CSS3/SCSS."
+						},
+						{
+							"content": "(Back-end) Implemented Restful GET, PUT, POST APIs for web services exchange data from Oracle DB."
+						},
+						{
+							"content": "(Back-end) Implemented authentication, JWT token, HTTPS, 2FA (two factors authentication)."
+						},
+						{
+							"content": "(Back-end) Designed and created new tables in Oracle database based on Restful APIs."
+						},
+						{
+							"content": "Deployed UI and backend web services to WebSphere server."
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Senior Full-Stack Developer",
+			"company": "Equifax Canada",
+			"location": "Toronto, ON Canada",
+			"duration": "October 2016 – September 2017",
+			"projects": [
+				{
+					"techuse": "Technology used: (Angular2&4, Material Design, Bootstrap, HTML5, AODA, Java, Microservice and CSS3/SCSS)",
+					"projectname": "Project: EWP-Equifax Web Portal (Agile)",
+					"projectdesc": "EWP is designed for Equifax agent to search and update customer credit files.",
+					"responsibility": [
+						{
+							"content": "(Front-end) Designed end to end flows and structures and Implemented Navigation page, credit file search page, search result page and credit file detailed page."
+						},
+						{
+							"content": "(Front-end) Implemented dynamic Bar chart and Pie chart to show required data by using Anglur2-chars."
+						},
+						{
+							"content": "(Back-end) Implemented Web Services for credit file comparison component to compare two credit files from different environments based on JSON data come back using Restful Micro services and deployed to Spring boot."
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Senior Full-Stack Developer",
+			"company": "RBC Royal Bank",
+			"location": "Toronto, ON Canada",
+			"duration": "November 2015 – October 2016",
+			"projects": [
+				{
+					"techuse": "Technology used: (Angular 2and 4, NodeJS, Bootstrap, Cassandra DB, AngularMateril, Restful, JSON, J2EE, CSS3)",
+					"projectname": "Project: Auto-Car-Vend (Agile)",
+					"projectdesc": "Auto-Car-Vend is web based on-line application owned by RBC to help clients them sale their vehicle.",
+					"responsibility": [
+						{
+							"content": "(Front-end) Designed end to end flows and structures and created framework from scratch for Angular 4 and Material Design."
+						},
+						{
+							"content": "(Front-end) Implemented responsive web components for both web and mobile client using bootstrap grids."
+						},
+						{
+							"content": "(Front-end) Implemented angular 4 web components based on designed wireframes includes sticky header, smooth scroll, social share and conditional population based on data retrieve from back end, reactive forms, validations and UI web services."
+						},
+						{
+							"content": "(Back-end) Created Restful APIs framework from scratch using NodeJS, and JWT token."
+						},
+						{
+							"content": "(Back-end) Implemented Restful GET, PUT, POST APIs for UI web services exchange data from Monogo DB."
+						}
+					]
+				},
+				{
+					"techuse": "Technology used: (JSF, JavaScript, Ajax, JQuery, SOAP, WSDL, XML, Oracle DB, WebSphere 8.5)",
+					"projectname": "Project: RBC Express – FCA (Foreign Currency Account)",
+					"projectdesc": "RBC Express provided web-based cash management solutions for the small business.",
+					"responsibility": [
+						{
+							"content": "(Front-end) Implemented components include FCA (Foreign Currency Account) account summary, account transfer, Single Factor Authentication, Two Factor Authentication, Allocate and un-Allocate tokens for client company, Assign and un-Assign tokens for user using Spring Framework, JSF, JavaScript, Ajax, JQuery and CSS."
+						},
+						{
+							"content": "(Back-end) Created new and modified existing web service components to retrieve data from Back-end and populate to Front-end base on the business logic using SOAP, WSDL, JAX-WS web service, XML, Oracle database and application running on WebSphere 8.5 server."
+						},
+						{
+							"content": "Using Restful Micro services and deployed to Spring boot. Using Jenkins server for CI."
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Senior Full-Stack Developer",
+			"company": "Scotiabank",
+			"location": "Toronto, ON Canada",
+			"duration": "February 2015 – November 2015",
+			"projects": [
+				{
+					"techuse": "Technology used: (JSF, JavaScript, Ajax, JQuery, SOAP, WSDL, XML, Oracle DB, WebSphere 8.5)",
+					"projectname": "Project: Scotia Online Banking Mexico and Caribbean regions",
+					"projectdesc": "The Scotia Online Banking Mexico project is introduced to convert Mexico customers over to the Scotia Online.",
+					"responsibility": [
+						{
+							"content": "(Front-end) Implemented ScotiaBank Online cheque payment component includes stop cheque, protect cheque, edit cheque, disable cheque, enable cheque, cancel cheque, cheque search and cheque image functions."
+						},
+						{
+							"content": "(Back-end) Implemented new SOAP web services allow customer transfer money within or outside banks."
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Senior Full-Stack Developer",
+			"company": "TD Bank",
+			"location": "Toronto, ON Canada",
+			"duration": "January 2014 – February 2015",
+			"projects": [
+				{
+					"techuse": "",
+					"projectname": "Project: Cross Channel Customer Events (Agile)",
+					"projectdesc": "The project provides a consistent way for customer events with various cross channels.",
+					"responsibility": [
+						{
+							"content": "(Front-end) Developed server-side application connects between client-side AngulaJS UI and NodeJS API."
+						},
+						{
+							"content": "(Back-end) Implemented customer events API include POST, GET and PUT using NodeJS, NPM, Bower, Strong Loop, and bootstrap and CQL exchange data from Cassandra DB component deployed to Could server."
+						}
+					]
+				},
+				{
+					"techuse": "Technology used: (JSF, JavaScript, Ajax, JQuery, SOAP, WSDL, XML, Oracle DB, WebSphere 8.5)",
+					"projectname": "Project: C3MFS",
+					"projectdesc": "Clear Customer Choice Mutual Fund System.",
+					"responsibility": [
+						{
+							"content": "(Front-end) Developed backing beans, validation rules using Spring Framework, JSF and JavaScript."
+						},
+						{
+							"content": "(Back-end) Developed Web Services Core Business rule engine components using Spring framework. Mavenized application and upgraded from WebSphere 7.0 to WebSphere 8.5 server. Generated report using Crystal report."
+						}
+					]
+				},
+				{
+					"techuse": "Technology used: (AngularJs, Bootstrap , NodeJs, Bower, npm)",
+					"projectname": "Project: FATCA Tax Report",
+					"projectdesc": "The Foreign Account Tax Compliance Act is US tax legislation report application.",
+					"responsibility": [
+						{
+							"content": "(Front-end) Use AuglarJS implemented single page UI components and update parts of page rather than full refresh."
+						},
+						{
+							"content": "(Front-end) Created clear application structure using Template, controllers, services directives, filters."
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Senior J2EE Consultant",
+			"company": "Ministry of Education",
+			"location": "Toronto, ON Canada",
+			"duration": "January 2013 – January 2014",
+			"projects": [
+				{
+					"techuse": "Technology used: (JSF, JavaScript, Ajax, JQuery, SOAP, WSDL, XML, Oracle DB, WebSphere 8.5, AODA)",
+					"projectname": "Project: OSAP - COE",
+					"projectdesc": "Ontario Student Assistance Program – Confirmation of Enrollment.",
+					"responsibility": [
+						{
+							"content": "Developed admin component allows school’s Financial Adviser to manage OASP status of their students."
+						},
+						{
+							"content": "Developed frontend UI components, backing beans using Spring Framework, JSF, JSON, Ajax and JavaScript."
+						},
+						{
+							"content": "Developed backend web services and persistence layer base on WebSphere 7.0 server. AODA testing."
+						}
+					]
+				},
+				{
+					"techuse": "Technology used: (JSF, JavaScript, Ajax, JQuery, SOAP, WSDL, XML, Oracle DB, WebSphere 8.5, AODA)",
+					"projectname": "Project: Child Care",
+					"projectdesc": "Child Care is a web application for child care institutions to apply new license, renew or revision their current license.",
+					"responsibility": [
+						{
+							"content": "Developed frontend UI components, backing beans using Spring Framework, JSF, JSON, Ajax and JavaScript."
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Senior Application Developer",
+			"company": "CIBC",
+			"location": "Toronto, ON Canada",
+			"duration": "August 2008 – January 2013",
+			"projects": [
+				{
+					"techuse": "Technology used: (JSF, JavaScript, Ajax, JQuery, SOAP, WSDL, XML, Oracle DB, WebLogic 8.1)",
+					"projectname": "Project: ERDS-FX Phase II",
+					"projectdesc": "Electronic Rate Distribution System Foreign Exchange Dynamic Currency Conversion.",
+					"responsibility": [
+						{
+							"content": "Created Web Services using Spring framework. Developed UI component using JSF, JavaScript, Ajax, JQuery, JavaScript, CSS. Asynchronous messaging communication using JMS queue."
+						}
+					]
+				},
+				{
+					"techuse": "Technology used: (JSF, JavaScript, Ajax, JQuery, SOAP, WSDL, XML, Oracle DB, WebSphere 8.5, AODA)",
+					"projectname": "Project: ERDS-FX Phase I",
+					"projectdesc": "Electronic Rate Distribution System Foreign Exchange storing and distributing Foreign Exchange rate.",
+					"responsibility": [
+						{
+							"content": "Developed Web Service using Spring framework and AOP. Developed DAO using Hibernate and JMS queues to work with Oracle database running on WebLogic. Asynchronous messaging communication using JMS queue."
+						}
+					]
+				},
+				{
+					"techuse": "",
+					"projectname": "Project: CMA Batch Processes",
+					"projectdesc": "Customer Messaging Application Batch processes support the specific customer.",
+					"responsibility": [
+						{
+							"content": "Developed Batch jobs using Core Java. UNIXS Shell Scripts to transfer data files between different."
+						}
+					]
+				},
+				{
+					"techuse": "",
+					"projectname": "Project: Channel Expansion for ABM",
+					"projectdesc": "Provide ABM channel and increase the number of campaigns to support CIBC strategic direction new revenue.",
+					"responsibility": [
+						{
+							"content": "Developed UI models for customer marketing channel using JSF, JavaScript, Ajax, JQuery, JavaScript, CSS."
+						}
+					]
+				},
+				{
+					"techuse": "",
+					"projectname": "Project: CMO (Cash Management Online)",
+					"projectdesc": "Cash Management Online provides the Bank business clients with web-based access to cash and payment services.",
+					"responsibility": [
+						{
+							"content": "Developed UI modules, using J2EE, Struts MVC, JSP. Web Service, WSDL and Schema. Core Business Service components using EJB. Developed Web Services, using JAX-WS, JAXB. Implemented asynchronous messaging communication using IBM MQ. Generated function report using Crystal report."
+						}
+					]
+				},
+				{
+					"techuse": "",
+					"projectname": "Project: TO (Trial Offer)",
+					"projectdesc": "Trial Offer is a consumer deposits initiative to attract more retail clients through providing specific product incentives.",
+					"responsibility": [
+						{
+							"content": "Designed and developed Web Service interfaces, Core Service Framework, Web Services, using JAX-WS, JAXB."
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Senior J2EE Consultant",
+			"company": "CGI Canada",
+			"location": "Toronto, ON Canada",
+			"duration": "August 2006 – August 2008",
+			"projects": [
+				{
+					"techuse": "",
+					"projectname": "Project: BES (Bell Entertainment System) OneVu Phase II",
+					"projectdesc": "The Bell Entertainment System use to manage client order for Bell satellite TV.",
+					"responsibility": [
+						{
+							"content": "Developed web services by JWS, JPD, JCS, DAO, DTO."
+						}
+					]
+				},
+				{
+					"techuse": "",
+					"projectname": "Project: Bell - AMF – PVR - Paella",
+					"projectdesc": "Account Management Framework is for PVR Paella use to maintain the redundant data from production database.",
+					"responsibility": [
+						{
+							"content": "Developed interfaces and classes for user transactions. Packaged XFire Web Service into AMF Frame Work."
+						}
+					]
+				},
+				{
+					"techuse": "",
+					"projectname": "Project: Bell - HD-Repack",
+					"projectdesc": "Bell High Definition TV package is redesigned programming structure improved the flexibility of the channel selection.",
+					"responsibility": [
+						{
+							"content": "Developed web services and SQL statement for retrieving, insertion and update information."
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Java/J2EE Developer",
+			"company": "Unic solution software",
+			"location": "Toronto, ON Canada",
+			"duration": "August 2003 – August 2006",
+			"projects": [
+				{
+					"techuse": "",
+					"projectname": "Project: E – Insurance System",
+					"projectdesc": "An E-Insurance system designed by JSP/servlet. JMS is used to synchronize the data with the backend system.",
+					"responsibility": [
+						{
+							"content": "Developed user interfaces with HTML, CSS, JSP, SERVLET, application is running on the JBoss server."
+						}
+					]
+				}
+			]
+		}
+	]
 }
